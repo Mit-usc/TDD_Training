@@ -1,6 +1,0 @@
-.gitignore
-*.pyc
-__pycache__
-.DS_Store
-TDD/settings.py
-db.sqlite3
